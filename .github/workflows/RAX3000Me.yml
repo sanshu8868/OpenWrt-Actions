@@ -21,8 +21,8 @@ on:
     - cron: '0 0 1 * *'
 
 env:
-  REPO_URL: https://github.com/dailook/immortalwrt-mt798x-23.05.git
-  REPO_BRANCH: openwrt-23.05
+  REPO_URL: https://github.com/padavanonly/immortalwrt-mt798x.git
+  REPO_BRANCH: openwrt-21.02
   FEEDS_CONF: RAX3000Me/feeds.conf.default
   CONFIG_FILE: RAX3000Me/.config
   DIY_P1_SH: RAX3000Me/diy1.sh
